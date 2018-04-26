@@ -1,0 +1,4 @@
+<!--360.wxml-->
+<view class="container">
+  <web-view src="https://veervr.tv/photos/89775" />
+</view>
