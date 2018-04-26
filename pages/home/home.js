@@ -1,4 +1,4 @@
-// pages/360/360.js.js
+// pages/home/home.js
 Page({
 
   /**
